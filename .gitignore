@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+*.o
+*.obj
+*.elf
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+env/
+ENV/
+
+.tmp.driveupload
+.tmp.driveupload.zip
+
+sources
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Next.js (App)
+app/node_modules/
+app/.next/
+app/out/
+app/build/
+app/dist/
+app/.env
+app/.env*.local
+app/npm-debug.log*
+app/yarn-debug.log*
+app/yarn-error.log*
