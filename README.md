@@ -4,7 +4,7 @@
 
 # Awesome Marketing Science
 
-A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more [shakostats.com](https://shakostats.com).
+A curated list of awesome marketing science resources including geo incrementality testing, media mix models, multi-touch attribution, causal inference, and more from [shakostats.com](https://shakostats.com).
 
 
 
