@@ -41,3 +41,10 @@ app/.env*.local
 app/npm-debug.log*
 app/yarn-debug.log*
 app/yarn-error.log*
+
+# AI Coding Assistants & IDEs
+.cursor/
+.cursorrules
+.windsurf/
+.antigravity/
+.claude/
