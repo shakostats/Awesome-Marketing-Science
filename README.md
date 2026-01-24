@@ -4,8 +4,10 @@ A curated list of awesome machine learning libraries for marketing, including me
 
 Star ⭐ the repo if it helps you, and feel free to contribute your own favorite resources
 
+## Open Source Libraries
+A collection of open source repositories and libraries.
 
-## Attribution
+### Attribution
 *   [ChannelAttribution](https://github.com/DavideAltomare/ChannelAttribution/tree/master) ![Github Stars](https://img.shields.io/github/stars/DavideAltomare/ChannelAttribution.svg?style=social) - - Python and R library that employs a k-order Markov representation to identify structural correlations in customer journey data.
 *   [fractribution](https://github.com/google/fractribution) ![Github Stars](https://img.shields.io/github/stars/google/fractribution.svg?style=social) - - Fractional attribution using machine learning (by Google).
 *   [Marketing-Attribution-Models](https://github.com/DP6/Marketing-Attribution-Models) ![Github Stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models.svg?style=social) - - A collection of marketing attribution models.
@@ -18,7 +20,7 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [ChannelAttribution](https://pypi.org/project/ChannelAttribution/) - Python library for channel attribution.
 *   [Regression Based Attribution](https://github.com/google/rba) ![Github Stars](https://img.shields.io/github/stars/google/rba.svg?style=social) - - Regression-based attribution by Google.
 
-## Marketing Mix Models (MMM)
+### Marketing Mix Models (MMM)
 *   [BayesianMMM](https://github.com/leopoldavezac/BayesianMMM) ![Github Stars](https://img.shields.io/github/stars/leopoldavezac/BayesianMMM.svg?style=social) - - Bayesian Media Mix Modeling with Python and PyMC3.
 *   [dammmdatagen](https://github.com/DoktorMike/dammmdatagen) ![Github Stars](https://img.shields.io/github/stars/DoktorMike/dammmdatagen.svg?style=social) - - (R) Media Mix Modeling Data Generator.
 *   [lightweight-mmm](https://github.com/google/lightweight_mmm) ![Github Stars](https://img.shields.io/github/stars/google/lightweight_mmm.svg?style=social) - - A lightweight Bayesian Marketing Mix Modeling library by Google.
@@ -30,46 +32,22 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Ecommerce Marketing Spend Optimization](https://github.com/Morphl-AI/Ecommerce-Marketing-Spend-Optimization) ![Github Stars](https://img.shields.io/github/stars/Morphl-AI/Ecommerce-Marketing-Spend-Optimization.svg?style=social) - - Machine Learning model for optimizing marketing budget.
 *   [MMM Prior Elicitation](https://github.com/louismagowan/mmm-prior-elicitation) ![Github Stars](https://img.shields.io/github/stars/louismagowan/mmm-prior-elicitation.svg?style=social) - - Tools for prior elicitation in MMM.
 
-## Geo Experimentation & Lift Testing
+### Geo Experimentation & Lift Testing
 *   [trimmed_match](https://github.com/google/trimmed_match) ![Github Stars](https://img.shields.io/github/stars/google/trimmed_match.svg?style=social) - - Trimmed Match design for randomized paired geo experiments.
 *   [matched_markets](https://github.com/google/matched_markets) ![Github Stars](https://img.shields.io/github/stars/google/matched_markets.svg?style=social) - - Time-based regression matched markets (by Google).
 *   [GeoexperimentsResearch](https://github.com/google/GeoexperimentsResearch) ![Github Stars](https://img.shields.io/github/stars/google/GeoexperimentsResearch.svg?style=social) - - Geo experiments research (R).
 *   [GeoLift](https://github.com/facebookincubator/GeoLift) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social) - - An R package to design and analyze geo-lift experiments (by Facebook).
-*   [CausalImpact \ (paper)](https://research.google/pubs/pub41854/) - An important problem in econometrics and marketing is to infer the causal impact that a designed market intervention has exerted on an outcome metric over time. In order to allocate a given budget ...
 *   [CausalImpact \ (R library)](https://cran.r-project.org/web/packages/CausalImpact/index.html)
-*   [Meta Geolift \ (paper)](https://eml.berkeley.edu/~jrothst/workingpapers/BMFR_Synth_Nov_2018.pdf)
 *   [Meta Geolift \ (R Library)](https://facebookincubator.github.io/GeoLift/)
 *   [Quasi - Causal Inference for the Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
-*   [Online A/B Testing \ - Trustworthy Online Controlled Experiments](https://experimentguide.com/)
 *   [Murray \ (Python Library)](https://github.com/entropyx/murray) ![Github Stars](https://img.shields.io/github/stars/entropyx/murray.svg?style=social)
 *   [MarketMatching](https://github.com/klarsen1/MarketMatching) ![Github Stars](https://img.shields.io/github/stars/klarsen1/MarketMatching.svg?style=social) - - Market matching and causal impact analysis.
 *   [Geo RCT Methodology](https://github.com/rickcentralcontrolcom/geo-rct-methodology) ![Github Stars](https://img.shields.io/github/stars/rickcentralcontrolcom/geo-rct-methodology.svg?style=social) - - Methodology for Geo Randomized Controlled Trials.
 
-## Causal Inference & Bayesian Analysis
-*   [External Resource](https://arxiv.org/abs/2105.07060) - How to measure the incremental Return On Ad Spend (iROAS) is a fundamental problem for the online advertising industry. A standard modern tool is to run randomized geo experiments, where experiment...
-*   [External Resource](https://arxiv.org/abs/2004.11408) - Gaussian processes are powerful non-parametric probabilistic models for stochastic functions. However, the direct implementation entails a complexity that is computationally intractable when the nu...
-*   [NeuralProphet](https://arxiv.org/abs/2111.15397) - We introduce NeuralProphet, a successor to Facebook Prophet, which set an industry standard for explainable, scalable, and user-friendly forecasting frameworks. With the proliferation of time serie...
-*   [Matched Markets paper](https://research.google/pubs/pub48983/) - Although randomized controlled trials are regarded as the &quot;gold standard&quot; for causal inference, advertisers have been hesitant to embrace them as their primary method of experimental desi...
-*   [TBR paper](https://research.google/pubs/pub45950/) - Two previously published papers (Vaver and Koehler, 2011, 2012) describe<br>a model for analyzing geo experiments. This model was designed to measure<br>advertising effectiveness using the rigor of...
-*   [GeoX paper](https://research.google/pubs/pub38355/) - Advertisers have a fundamental need to quantify the effectiveness of their advertising. For search ad spend, this information provides a basis for formulating strategies related to bidding, budgeti...
-*   [ArXiv Paper](https://arxiv.org/abs/1906.05264) - We introduce Gluon Time Series (GluonTS, available at https://gluon-ts.mxnet.io), a library for deep-learning-based time series modeling. GluonTS simplifies the development of and experimentation w...
-*   [Be Careful When Interpreting Predictive Models in Search of Causal Insights](https://towardsdatascience.com/be-careful-when-interpreting-predictive-models-in-search-of-causal-insights-e68626e664b6)
-*   [Treatment Effects with Instruments paper](https://arxiv.org/pdf/1905.10176.pdf)
-*   [*Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS)*](https://arxiv.org/abs/1905.10176) - We consider the estimation of heterogeneous treatment effects with arbitrary machine learning methods in the presence of unobserved confounders with the aid of a valid instrument. Such settings ari...
-*   [*Arxiv preprint arxiv:1806.04823*](https://arxiv.org/abs/1806.04823) - This paper proposes a Lasso-type estimator for a high-dimensional sparse parameter identified by a single index conditional moment restriction (CMR). In addition to this parameter, the moment funct...
-*   [*ArXiv preprint arXiv:1608.00060*](https://arxiv.org/abs/1608.00060) - Most modern supervised statistical/machine learning (ML) methods are explicitly designed to solve prediction problems very well. Achieving this goal does not imply that these methods automatically ...
-*   [Benidis et al.](https://arxiv.org/abs/2004.10240) - Deep learning based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting often outperforming other approaches. Consequently, over the ...
-*   [Measuring Ad Effectiveness Using Geo Experiments](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38355.pdf)
-*   [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression Framework](https://research.google.com/pubs/pub45950.html) - Two previously published papers (Vaver and Koehler, 2011, 2012) describe<br>a model for analyzing geo experiments. This model was designed to measure<br>advertising effectiveness using the rigor of...
-*   [2021 Conference on Digital Experimentation @ MIT (CODE@MIT)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/)
-*   [CausalML: Python package for causal machine learning](https://arxiv.org/abs/2002.11631) - CausalML is a Python implementation of algorithms related to causal inference and machine learning. Algorithms combining causal inference and machine learning have been a trending topic in recent y...
-*   [DeepTCN paper](https://arxiv.org/abs/1906.04397) - We present a probabilistic forecasting framework based on convolutional neural network for multiple related time series forecasting. The framework can be applied to estimate probability density und...
-*   [Chronos-2 report](https://arxiv.org/abs/2510.15821) - Pretrained time series models have enabled inference-only forecasting systems that produce accurate predictions without task-specific training. However, existing approaches largely focus on univari...
-*   [Conformalized Prediction](https://arxiv.org/pdf/1905.03222) - Conformal prediction is a technique for constructing prediction intervals that attain valid coverage in finite samples, without making distributional assumptions. Despite this appeal, existing conf...
+### Causal Inference & Bayesian Analysis
 *   [scpi: Uncertainty Quantification for Synthetic Control Methods](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2025_JSS.pdf)
 *   [Uncertainty Quantification in Synthetic Controls with Staggered Treatment Adoption](https://nppackages.github.io/references/Cattaneo-Feng-Palomba-Titiunik_2025_RESTAT.pdf)
 *   [Prediction Intervals for Synthetic Control Methods](https://nppackages.github.io/references/Cattaneo-Feng-Titiunik_2021_JASA.pdf)
-*   [Orbit: Probabilistic Forecast with Exponential Smoothing](https://arxiv.org/abs/2004.08492) - Time series forecasting is an active research topic in academia as well as industry. Although we see an increasing amount of adoptions of machine learning methods in solving some of those forecasti...
 *   [CausalImpact](https://github.com/google/CausalImpact) ![Github Stars](https://img.shields.io/github/stars/google/CausalImpact.svg?style=social) - - An R package for causal inference using Bayesian structural time-series models.
 *   [CausalPy](https://github.com/pymc-labs/CausalPy) ![Github Stars](https://img.shields.io/github/stars/pymc-labs/CausalPy.svg?style=social) - - A Python package for causal inference in quasi-experimental settings.
 *   [dowhy](https://github.com/py-why/dowhy) ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social) - - Python library for causal inference that supports explicit modeling and testing of causal assumptions.
@@ -90,11 +68,9 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Deep Causal MMM](https://github.com/adityapt/deepcausalmmm) ![Github Stars](https://img.shields.io/github/stars/adityapt/deepcausalmmm.svg?style=social) - - Deep Causal Marketing Mix Modeling.
 *   [ScidesignR](https://github.com/scidesign/scidesignR) ![Github Stars](https://img.shields.io/github/stars/scidesign/scidesignR.svg?style=social) - - Scientific design of experiments in R.
 *   [CausalImpact Python](https://github.com/jamalsenouci/causalimpact/) ![Github Stars](https://img.shields.io/github/stars/jamalsenouci/causalimpact.svg?style=social) - - Another Python implementation of CausalImpact.
-*   [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
-*   [Gaussian Processes: HSGP Reference & First Steps](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Basic.html)
-*   [Gaussian Processes: HSGP Advanced Usage](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Advanced.html)
+*   [mlsynth](https://github.com/jgreathouse9/mlsynth) ![Github Stars](https://img.shields.io/github/stars/jgreathouse9/mlsynth.svg?style=social) - A Python library for doing policy evaluation using panel data estimators.
 
-## Customer Analytics (CLV, Segmentation, Uplift)
+### Customer Analytics (CLV, Segmentation, Uplift)
 *   [causalml](https://github.com/uber/causalml) ![Github Stars](https://img.shields.io/github/stars/uber/causalml.svg?style=social) - - Uplift modeling and causal inference with machine learning.
 *   [btyd](https://github.com/ColtAllen/btyd) ![Github Stars](https://img.shields.io/github/stars/ColtAllen/btyd.svg?style=social) - - Buy Till You Die and CLV statistical models in Python.
 *   [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes.svg?style=social) - - Measure customer lifetime value in Python.
@@ -112,14 +88,10 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [mr-uplift](https://github.com/Ibotta/mr_uplift) ![Github Stars](https://img.shields.io/github/stars/Ibotta/mr_uplift.svg?style=social) - - Uplift Modeling with Multiple Treatments/Responses.
 *   [BTYD](https://github.com/ghuiber/BTYD) ![Github Stars](https://img.shields.io/github/stars/ghuiber/BTYD.svg?style=social) - - Buy Till You Die - Probability Models for Customer-Base Analysis (R).
 
-## Customer Response Modeling
+### Customer Response Modeling
 *   [Uplift Modeling with Multiple Treatments/Responses \ (Python Package)](https://pypi.org/project/mr-uplift/)
 
-## Forecasting
-*   [N-BEATS paper](https://arxiv.org/abs/1905.10437) - Neural basis expansion analysis for interpretable time series forecasting.
-*   [DeepAR paper](https://arxiv.org/abs/1704.04110) - Probabilistic forecasting with autoregressive recurrent networks (Amazon).
-*   [N-HiTS paper](https://arxiv.org/abs/2201.12886) - Neural Hierarchical Interpolation for Time Series Forecasting.
-*   [TCN paper](https://arxiv.org/abs/1803.01271) - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling.
+### Forecasting
 *   [NeuralProphet](https://github.com/ourownstory/neural_prophet) ![Github Stars](https://img.shields.io/github/stars/ourownstory/neural_prophet.svg?style=social) - - A hybrid forecasting framework based on PyTorch and trained with standard deep learning methods.
 *   [pmdarima](https://github.com/alkaline-ml/pmdarima) ![Github Stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima.svg?style=social) - - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
 *   [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social) - - Additive time series modelling by Facebook.
@@ -133,7 +105,76 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Nixtla](https://github.com/Nixtla/nixtla) ![Github Stars](https://img.shields.io/github/stars/Nixtla/nixtla.svg?style=social) - - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection.
 *   [MLForecast](https://github.com/Nixtla/mlforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/mlforecast.svg?style=social) - - Scalable machine 🤖 learning for time series forecasting.
 
-## Multi Armed Bandits
+### Product Affinity/Association
+*   [Association Rules (apriori, eclat) \ - R Package](https://cran.r-project.org/web/packages/arules/index.html)
+
+### Recommender Systems
+*   [lightfm](https://github.com/lyst/lightfm) ![Github Stars](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - - A Python implementation of a number of popular recommendation algorithms.
+*   [openrec](https://github.com/ylongqi/openrec) ![Github Stars](https://img.shields.io/github/stars/ylongqi/openrec.svg?style=social) - - A Modular Framework for Extensible and Adaptable Recommendation Algorithms.
+*   [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ![Github Stars](https://img.shields.io/github/stars/statisticianinstilettos/recmetrics.svg?style=social) - - Library of metrics for evaluating recommender systems.
+*   [recommenders](https://github.com/microsoft/recommenders) ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social) - - Best Practices on Recommendation Systems (by Microsoft).
+*   [Surprise](https://github.com/NicolasHug/Surprise) ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social) - - Scikit for building and analyzing recommender systems that deal with explicit rating data.
+
+### Data & Utilities
+*   [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social) - - Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
+*   [Decoy](https://github.com/EqualExperts/decoy) ![Github Stars](https://img.shields.io/github/stars/EqualExperts/decoy.svg?style=social) - - Synthetic Data Generator using DuckDB at its core.
+*   [SDV](https://github.com/sdv-dev/SDV) ![Github Stars](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - - Python library designed to be your one-stop shop for creating tabular synthetic data.
+
+## Papers, Blogs, & Resources
+Articles, papers, and other resources organized by topic.
+
+### Geo Experimentation & Lift Testing
+*   [CausalImpact \ (paper)](https://research.google/pubs/pub41854/) - An important problem in econometrics and marketing is to infer the causal impact that a designed market intervention has exerted on an outcome metric over time. In order to allocate a given budget ...
+*   [Meta Geolift \ (paper)](https://eml.berkeley.edu/~jrothst/workingpapers/BMFR_Synth_Nov_2018.pdf)
+*   [Online A/B Testing \ - Trustworthy Online Controlled Experiments](https://experimentguide.com/)
+
+### Causal Inference & Bayesian Analysis
+*   [External Resource](https://arxiv.org/abs/2105.07060) - How to measure the incremental Return On Ad Spend (iROAS) is a fundamental problem for the online advertising industry. A standard modern tool is to run randomized geo experiments, where experiment...
+*   [External Resource](https://arxiv.org/abs/2004.11408) - Gaussian processes are powerful non-parametric probabilistic models for stochastic functions. However, the direct implementation entails a complexity that is computationally intractable when the nu...
+*   [Bayesian](https://arxiv.org/pdf/2503.06454) - The challenges posed by high-dimensional data and use of the simplex constraint are two major concerns in the empirical application of the synthetic control method (SCM) in econometric studies. To ...
+*   [infernce for simplex weights](https://arxiv.org/pdf/2501.15692) - In many applications, the parameter of interest involves a simplex-valued weight which is identified as a solution to an optimization problem. Examples include synthetic control methods with group-...
+*   [synthetic business cycles](https://arxiv.org/pdf/2505.22388) - This paper investigates the use of synthetic control methods for causal inference in macroeconomic settings when dealing with possibly nonstationary data. While the synthetic control approach has g...
+*   [Synthetic Control Method (Vanilla SCM)](https://doi.org/10.1198/jasa.2009.ap08746)
+*   [Augmented Difference-in-Differences](https://doi.org/10.1287/mksc.2022.1406)
+*   [Forward Difference-in-Differences](https://doi.org/10.1287/mksc.2022.0212)
+*   [Two Step Synthetic Control](https://doi.org/10.1287/mnsc.2023.4878)
+*   [Synthetic Control Method with Nonlinear Outcomes](https://arxiv.org/abs/2306.01967) - The synthetic control estimator (Abadie et al., 2010) is asymptotically unbiased assuming that the outcome is a linear function of the underlying predictors and that the treated unit can be well ap...
+*   [Proximal Causal Inference for SCM (Surrogates)](https://arxiv.org/abs/2308.09527) - The synthetic control method (SCM) has become a popular tool for estimating causal effects in policy evaluation, where a single treated unit is observed, and a heterogeneous set of untreated units ...
+*   [Proximal SCM Framework](https://arxiv.org/abs/2108.13935) - Synthetic control (SC) methods are commonly used to estimate the treatment effect on a single treated unit in panel data settings. An SC is a weighted average of control units built to match the tr...
+*   [Relaxed Balanced Synthetic Control](https://arxiv.org/abs/2508.01793) - The synthetic control method (SCM) is widely used for constructing the counterfactual of a treated unit based on data from control units in a donor pool. Allowing the donor pool contains more contr...
+*   [L1-INF Synthetic Control](https://arxiv.org/abs/2510.26053) - This paper reinterprets the Synthetic Control (SC) framework through the lens of weighting philosophy, arguing that the contrast between traditional SC and Difference-in-Differences (DID) reflects ...
+*   [Synthetic Control with Multiple Outcomes (TLP and SBMF)](https://arxiv.org/abs/2304.02272) - We generalize the synthetic control (SC) method to a multiple-outcome framework, where the conventional pre-treatment time dimension is supplemented with the extra dimension of related outcomes in ...
+*   [Synthetic Controls for Experimental Design](https://arxiv.org/abs/2108.02196) - This article studies experimental design in settings where the experimental units are large aggregate entities (e.g., markets), and only one or a small number of units can be exposed to the treatme...
+*   [DeepTCN paper](https://arxiv.org/abs/1906.04397) - We present a probabilistic forecasting framework based on convolutional neural network for multiple related time series forecasting. The framework can be applied to estimate probability density und...
+*   [Chronos-2 report](https://arxiv.org/abs/2510.15821) - Pretrained time series models have enabled inference-only forecasting systems that produce accurate predictions without task-specific training. However, existing approaches largely focus on univari...
+*   [Conformalized Prediction](https://arxiv.org/pdf/1905.03222) - Conformal prediction is a technique for constructing prediction intervals that attain valid coverage in finite samples, without making distributional assumptions. Despite this appeal, existing conf...
+*   [Matched Markets paper](https://research.google/pubs/pub48983/) - Although randomized controlled trials are regarded as the &quot;gold standard&quot; for causal inference, advertisers have been hesitant to embrace them as their primary method of experimental desi...
+*   [TBR paper](https://research.google/pubs/pub45950/) - Two previously published papers (Vaver and Koehler, 2011, 2012) describe<br>a model for analyzing geo experiments. This model was designed to measure<br>advertising effectiveness using the rigor of...
+*   [GeoX paper](https://research.google/pubs/pub38355/) - Advertisers have a fundamental need to quantify the effectiveness of their advertising. For search ad spend, this information provides a basis for formulating strategies related to bidding, budgeti...
+*   [Benidis et al.](https://arxiv.org/abs/2004.10240) - Deep learning based forecasting methods have become the methods of choice in many applications of time series prediction or forecasting often outperforming other approaches. Consequently, over the ...
+*   [Orbit: Probabilistic Forecast with Exponential Smoothing](https://arxiv.org/abs/2004.08492) - Time series forecasting is an active research topic in academia as well as industry. Although we see an increasing amount of adoptions of machine learning methods in solving some of those forecasti...
+*   [Treatment Effects with Instruments paper](https://arxiv.org/pdf/1905.10176.pdf)
+*   [*Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS)*](https://arxiv.org/abs/1905.10176) - We consider the estimation of heterogeneous treatment effects with arbitrary machine learning methods in the presence of unobserved confounders with the aid of a valid instrument. Such settings ari...
+*   [*Arxiv preprint arxiv:1806.04823*](https://arxiv.org/abs/1806.04823) - This paper proposes a Lasso-type estimator for a high-dimensional sparse parameter identified by a single index conditional moment restriction (CMR). In addition to this parameter, the moment funct...
+*   [*ArXiv preprint arXiv:1608.00060*](https://arxiv.org/abs/1608.00060) - Most modern supervised statistical/machine learning (ML) methods are explicitly designed to solve prediction problems very well. Achieving this goal does not imply that these methods automatically ...
+*   [CausalML: Python package for causal machine learning](https://arxiv.org/abs/2002.11631) - CausalML is a Python implementation of algorithms related to causal inference and machine learning. Algorithms combining causal inference and machine learning have been a trending topic in recent y...
+*   [ArXiv Paper](https://arxiv.org/abs/1906.05264) - We introduce Gluon Time Series (GluonTS, available at https://gluon-ts.mxnet.io), a library for deep-learning-based time series modeling. GluonTS simplifies the development of and experimentation w...
+*   [Measuring Ad Effectiveness Using Geo Experiments](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38355.pdf)
+*   [Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression Framework](https://research.google.com/pubs/pub45950.html) - Two previously published papers (Vaver and Koehler, 2011, 2012) describe<br>a model for analyzing geo experiments. This model was designed to measure<br>advertising effectiveness using the rigor of...
+*   [NeuralProphet](https://arxiv.org/abs/2111.15397) - We introduce NeuralProphet, a successor to Facebook Prophet, which set an industry standard for explainable, scalable, and user-friendly forecasting frameworks. With the proliferation of time serie...
+*   [Be Careful When Interpreting Predictive Models in Search of Causal Insights](https://towardsdatascience.com/be-careful-when-interpreting-predictive-models-in-search-of-causal-insights-e68626e664b6)
+*   [2021 Conference on Digital Experimentation @ MIT (CODE@MIT)](https://ide.mit.edu/events/2021-conference-on-digital-experimentation-mit-codemit/)
+*   [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
+*   [Gaussian Processes: HSGP Reference & First Steps](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Basic.html)
+*   [Gaussian Processes: HSGP Advanced Usage](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Advanced.html)
+
+### Forecasting
+*   [DeepAR paper](https://arxiv.org/abs/1704.04110) - Probabilistic forecasting with autoregressive recurrent networks (Amazon).
+*   [N-BEATS paper](https://arxiv.org/abs/1905.10437) - Neural basis expansion analysis for interpretable time series forecasting.
+*   [N-HiTS paper](https://arxiv.org/abs/2201.12886) - Neural Hierarchical Interpolation for Time Series Forecasting.
+*   [TCN paper](https://arxiv.org/abs/1803.01271) - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling.
+
+### Multi Armed Bandits
 *   [[Overview](https - Overview](https://arxiv.org/pdf/1904.07272.pdf)
 *   [Applications \ - Pricing](https://www.sciencedirect.com/science/article/pii/S0888613X17303821)
 *   [Applications \ - Stitchfix Experimentation](https://multithreaded.stitchfix.com/blog/2020/08/05/bandits/)
@@ -141,22 +182,9 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Applications \ - Meta Ad Placement](https://research.facebook.com/blog/2021/4/auto-placement-of-ad-campaigns-using-multi-armed-bandits/)
 *   [Applications \ - Application to Performance Marketing](https://assets.researchsquare.com/files/rs-2684616/v1/743a3c4b9360ea574bea92dd.pdf?c=1678945781)
 
-## Product Affinity/Association
-*   [Association Rules (apriori, eclat) \ - R Package](https://cran.r-project.org/web/packages/arules/index.html)
-
-## Recommender Systems
+### Recommender Systems
 *   [xDeepFM](https://arxiv.org/abs/1803.05170) - eXtreme Deep Factorization Machine: Combining Explicit and Implicit Feature Interactions for Recommender Systems.
-*   [lightfm](https://github.com/lyst/lightfm) ![Github Stars](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - - A Python implementation of a number of popular recommendation algorithms.
-*   [openrec](https://github.com/ylongqi/openrec) ![Github Stars](https://img.shields.io/github/stars/ylongqi/openrec.svg?style=social) - - A Modular Framework for Extensible and Adaptable Recommendation Algorithms.
-*   [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ![Github Stars](https://img.shields.io/github/stars/statisticianinstilettos/recmetrics.svg?style=social) - - Library of metrics for evaluating recommender systems.
-*   [recommenders](https://github.com/microsoft/recommenders) ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social) - - Best Practices on Recommendation Systems (by Microsoft).
-*   [Surprise](https://github.com/NicolasHug/Surprise) ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social) - - Scikit for building and analyzing recommender systems that deal with explicit rating data.
 *   [Google Primer](https://developers.google.com/machine-learning/recommendation) - Introduction to Recommendation Systems.
-
-## Data & Utilities
-*   [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social) - - Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
-*   [Decoy](https://github.com/EqualExperts/decoy) ![Github Stars](https://img.shields.io/github/stars/EqualExperts/decoy.svg?style=social) - - Synthetic Data Generator using DuckDB at its core.
-*   [SDV](https://github.com/sdv-dev/SDV) ![Github Stars](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - - Python library designed to be your one-stop shop for creating tabular synthetic data.
 
 ## Key Researchers
 *   [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) - The Economics of Technology Professor at Stanford Graduate School of Business. Leading researcher in the intersection of machine learning and causal inference.
@@ -206,11 +234,11 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [An Analyst's Guide to MMM | Robyn](https://facebookexperimental.github.io/Robyn/docs/analysts-guide-to-MMM/)
 
 ## Resources
-*   [https://arxiv.org/abs/1808.03737](https://arxiv.org/abs/1808.03737) - In online advertising, the Internet users may be exposed to a sequence of different ad campaigns, i.e., display ads, search, or referrals from multiple channels, before led up to any final sales co...
 *   ["Shapley Value Methods for Attribution Modeling in Online Advertising" by Zhao, et al.](https://arxiv.org/abs/1804.05327) - This paper re-examines the Shapley value methods for attribution analysis in the area of online advertising. As a credit allocation solution in cooperative game theory, Shapley value method directl...
-*   [Feature Selection Methods for Uplift Modeling](https://arxiv.org/abs/2005.03447) - Uplift modeling is a causal learning technique that estimates subgroup-level treatment effects. It is commonly used in industry and elsewhere for tasks such as targeting ads. In a typical setting, ...
 *   [this paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) - Google Research.
 *   [Challenges and Opportunities in Media Mix Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45998.pdf) - Google Research.
+*   [Feature Selection Methods for Uplift Modeling](https://arxiv.org/abs/2005.03447) - Uplift modeling is a causal learning technique that estimates subgroup-level treatment effects. It is commonly used in industry and elsewhere for tasks such as targeting ads. In a typical setting, ...
+*   [https://arxiv.org/abs/1808.03737](https://arxiv.org/abs/1808.03737) - In online advertising, the Internet users may be exposed to a sequence of different ad campaigns, i.e., display ads, search, or referrals from multiple channels, before led up to any final sales co...
 *   [darts](https://github.com/unit8co/darts) ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - - A python library for easy manipulation and forecasting of time series.
 *   [gluonts](https://github.com/awslabs/gluonts) ![Github Stars](https://img.shields.io/github/stars/awslabs/gluonts.svg?style=social) - - Probabilistic time series modeling in Python (by Amazon).
 *   [orbit](https://github.com/uber/orbit) ![Github Stars](https://img.shields.io/github/stars/uber/orbit.svg?style=social) - - Bayesian Time Varying Coefficients (by Uber).
