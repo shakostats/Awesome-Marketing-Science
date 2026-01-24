@@ -1,7 +1,3 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shako-stats)
-
 # Awesome Marketing Science
 
 A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more [shakostats.com](https://shakostats.com).
@@ -9,21 +5,20 @@ A curated list of awesome machine learning libraries for marketing, including me
 Star ⭐ the repo if it helps you, and feel free to contribute your own favorite resources
 
 
-
-
 ## Marketing Mix Models (MMM)
-*   [Robyn](https://github.com/facebookexperimental/Robyn) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social) - - - - - - - - - - - - - - - - - - Facebook's automated Marketing Mix Modeling (MMM) code.
-*   [pymc-marketing](https://github.com/pymc-labs/pymc-marketing) ![Github Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing.svg?style=social) - - - - - - - - - - - - - - - - - - Bayesian marketing mix modeling and customer lifetime value in Python.
-*   [lightweight-mmm](https://github.com/google/lightweight_mmm) ![Github Stars](https://img.shields.io/github/stars/google/lightweight_mmm.svg?style=social) - - - - - - - - - - - - - - - - - - A lightweight Bayesian Marketing Mix Modeling library by Google.
-*   [mmm-stan](https://github.com/sibylhe/mmm_stan) ![Github Stars](https://img.shields.io/github/stars/sibylhe/mmm_stan.svg?style=social) - - - - - - - - - - - - - - - - - - Marketing Mix Modeling with Stan.
-*   [mamimo](https://github.com/Garve/mamimo) ![Github Stars](https://img.shields.io/github/stars/Garve/mamimo.svg?style=social) - - - - - - - - - - - - - - - - - - Small Media Mix Models designed to be used in conjunction with ML libraries (e.g. SKL)
-*   [BayesianMMM](https://github.com/leopoldavezac/BayesianMMM) ![Github Stars](https://img.shields.io/github/stars/leopoldavezac/BayesianMMM.svg?style=social) - - - - - - - - - - - - - - - - - - Bayesian Media Mix Modeling with Python and PyMC3.
-*   [dammmdatagen](https://github.com/DoktorMike/dammmdatagen) ![Github Stars](https://img.shields.io/github/stars/DoktorMike/dammmdatagen.svg?style=social) - - - - - - - - - - - - - - - - - - (R) Media Mix Modeling Data Generator.
-*   [Meridian](https://github.com/google/meridian) ![Github Stars](https://img.shields.io/github/stars/google/meridian.svg?style=social) - - - - - - - - - - - - - - - - - - Google's new open-source Bayesian MMM framework (successor to LightweightMMM).
-*   [Ecommerce Marketing Spend Optimization](https://github.com/Morphl-AI/Ecommerce-Marketing-Spend-Optimization) ![Github Stars](https://img.shields.io/github/stars/Morphl-AI/Ecommerce-Marketing-Spend-Optimization.svg?style=social) - - - - - - - - - - - - - - - - - - Machine Learning model for optimizing marketing budget.
-*   [MMM Prior Elicitation](https://github.com/louismagowan/mmm-prior-elicitation) ![Github Stars](https://img.shields.io/github/stars/louismagowan/mmm-prior-elicitation.svg?style=social) - - - - - - - - - - - - - - - - - - Tools for prior elicitation in MMM.
+*   [Meridian](https://github.com/google/meridian) ![Github Stars](https://img.shields.io/github/stars/google/meridian.svg?style=social) - - Google's new open-source Bayesian MMM framework (successor to LightweightMMM).
+*   [Ecommerce Marketing Spend Optimization](https://github.com/Morphl-AI/Ecommerce-Marketing-Spend-Optimization) ![Github Stars](https://img.shields.io/github/stars/Morphl-AI/Ecommerce-Marketing-Spend-Optimization.svg?style=social) - - Machine Learning model for optimizing marketing budget.
+*   [BayesianMMM](https://github.com/leopoldavezac/BayesianMMM) ![Github Stars](https://img.shields.io/github/stars/leopoldavezac/BayesianMMM.svg?style=social) - - Bayesian Media Mix Modeling with Python and PyMC3.
+*   [dammmdatagen](https://github.com/DoktorMike/dammmdatagen) ![Github Stars](https://img.shields.io/github/stars/DoktorMike/dammmdatagen.svg?style=social) - - (R) Media Mix Modeling Data Generator.
+*   [lightweight-mmm](https://github.com/google/lightweight_mmm) ![Github Stars](https://img.shields.io/github/stars/google/lightweight_mmm.svg?style=social) - - A lightweight Bayesian Marketing Mix Modeling library by Google.
+*   [mamimo](https://github.com/Garve/mamimo) ![Github Stars](https://img.shields.io/github/stars/Garve/mamimo.svg?style=social) - - Small Media Mix Models designed to be used in conjunction with ML libraries (e.g. SKL)
+*   [mmm-stan](https://github.com/sibylhe/mmm_stan) ![Github Stars](https://img.shields.io/github/stars/sibylhe/mmm_stan.svg?style=social) - - Marketing Mix Modeling with Stan.
+*   [pymc-marketing](https://github.com/pymc-labs/pymc-marketing) ![Github Stars](https://img.shields.io/github/stars/pymc-labs/pymc-marketing.svg?style=social) - - Bayesian marketing mix modeling and customer lifetime value in Python.
+*   [Robyn](https://github.com/facebookexperimental/Robyn) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social) - - Facebook's automated Marketing Mix Modeling (MMM) code.
+*   [MMM Prior Elicitation](https://github.com/louismagowan/mmm-prior-elicitation) ![Github Stars](https://img.shields.io/github/stars/louismagowan/mmm-prior-elicitation.svg?style=social) - - Tools for prior elicitation in MMM.
 
 ## Marketing Measurement with Experimentation
+*   [Murray \ (Python Library)](https://github.com/entropyx/murray) ![Github Stars](https://img.shields.io/github/stars/entropyx/murray.svg?style=social) - Geographic Experiment design and Evaluation Tool designed to help you determine the true lift of marketing efforts.
 *   [CausalImpact \ (paper)](https://research.google/pubs/pub41854/) - An important problem in econometrics and marketing is to infer the causal impact that a designed market intervention has exerted on an outcome metric over time. In order to allocate a given budget ...
 *   [CausalImpact \ (R library)](https://cran.r-project.org/web/packages/CausalImpact/index.html)
 *   [Meta Geolift \ (paper)](https://eml.berkeley.edu/~jrothst/workingpapers/BMFR_Synth_Nov_2018.pdf)
@@ -32,66 +27,71 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Online A/B Testing \ - Trustworthy Online Controlled Experiments](https://experimentguide.com/)
 
 ## Attribution
-*   [ChannelAttribution](https://github.com/DavideAltomare/ChannelAttribution/tree/master) ![Github Stars](https://img.shields.io/github/stars/DavideAltomare/ChannelAttribution.svg?style=social) - - - - - - - - - - - - - - - - - - Python and R library that employs a k-order Markov representation to identify structural correlations in customer journey data.
-*   [fractribution](https://github.com/google/fractribution) ![Github Stars](https://img.shields.io/github/stars/google/fractribution.svg?style=social) - - - - - - - - - - - - - - - - - - Fractional attribution using machine learning (by Google).
-*   [Marketing-Attribution-Models](https://github.com/DP6/Marketing-Attribution-Models) ![Github Stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models.svg?style=social) - - - - - - - - - - - - - - - - - - A collection of marketing attribution models.
-*   [markov-chain-attribution](https://github.com/jerednel/markov-chain-attribution) ![Github Stars](https://img.shields.io/github/stars/jerednel/markov-chain-attribution.svg?style=social) - - - - - - - - - - - - - - - - - - Implementation of Markov Chain attribution.
-*   [mta](https://github.com/eeghor/mta) ![Github Stars](https://img.shields.io/github/stars/eeghor/mta.svg?style=social) - - - - - - - - - - - - - - - - - - Multi-touch attribution models.
-*   [pychattr](https://github.com/jmwoloso/pychattr) ![Github Stars](https://img.shields.io/github/stars/jmwoloso/pychattr.svg?style=social) - - - - - - - - - - - - - - - - - - Python implementation of the excellent R ChannelAttribution library.
-*   [shapley](https://github.com/hartmann-lars/shapley) ![Github Stars](https://img.shields.io/github/stars/hartmann-lars/shapley.svg?style=social) - - - - - - - - - - - - - - - - - - Shapley values for attribution modeling.
-*   [shapley-attribution-model-zhao-naive](https://github.com/ianchute/shapley-attribution-model-zhao-naive) ![Github Stars](https://img.shields.io/github/stars/ianchute/shapley-attribution-model-zhao-naive.svg?style=social) - - - - - - - - - - - - - - - - - - Shapley Naive set-based attribution modeling.
-*   [Deep Conversion Attribution](https://github.com/rk2900/deep-conv-attr) ![Github Stars](https://img.shields.io/github/stars/rk2900/deep-conv-attr.svg?style=social) - - - - - - - - - - - - - - - - - - Deep Conversion Attribution for Online Advertising.
+*   [Deep Conversion Attribution](https://github.com/rk2900/deep-conv-attr) ![Github Stars](https://img.shields.io/github/stars/rk2900/deep-conv-attr.svg?style=social) - - Deep Conversion Attribution for Online Advertising.
+*   [ChannelAttribution](https://github.com/DavideAltomare/ChannelAttribution/tree/master) ![Github Stars](https://img.shields.io/github/stars/DavideAltomare/ChannelAttribution.svg?style=social) - - Python and R library that employs a k-order Markov representation to identify structural correlations in customer journey data.
+*   [fractribution](https://github.com/google/fractribution) ![Github Stars](https://img.shields.io/github/stars/google/fractribution.svg?style=social) - - Fractional attribution using machine learning (by Google).
+*   [Marketing-Attribution-Models](https://github.com/DP6/Marketing-Attribution-Models) ![Github Stars](https://img.shields.io/github/stars/DP6/Marketing-Attribution-Models.svg?style=social) - - A collection of marketing attribution models.
+*   [markov-chain-attribution](https://github.com/jerednel/markov-chain-attribution) ![Github Stars](https://img.shields.io/github/stars/jerednel/markov-chain-attribution.svg?style=social) - - Implementation of Markov Chain attribution.
+*   [mta](https://github.com/eeghor/mta) ![Github Stars](https://img.shields.io/github/stars/eeghor/mta.svg?style=social) - - Multi-touch attribution models.
+*   [pychattr](https://github.com/jmwoloso/pychattr) ![Github Stars](https://img.shields.io/github/stars/jmwoloso/pychattr.svg?style=social) - - Python implementation of the excellent R ChannelAttribution library.
+*   [shapley](https://github.com/hartmann-lars/shapley) ![Github Stars](https://img.shields.io/github/stars/hartmann-lars/shapley.svg?style=social) - - Shapley values for attribution modeling.
+*   [shapley-attribution-model-zhao-naive](https://github.com/ianchute/shapley-attribution-model-zhao-naive) ![Github Stars](https://img.shields.io/github/stars/ianchute/shapley-attribution-model-zhao-naive.svg?style=social) - - Shapley Naive set-based attribution modeling.
 *   [ChannelAttribution](https://pypi.org/project/ChannelAttribution/) - Python library for channel attribution.
-*   [Regression Based Attribution](https://github.com/google/rba) ![Github Stars](https://img.shields.io/github/stars/google/rba.svg?style=social) - - - - - - - - - - - - - - - - - - Regression-based attribution by Google.
+*   [Regression Based Attribution](https://github.com/google/rba) ![Github Stars](https://img.shields.io/github/stars/google/rba.svg?style=social) - - Regression-based attribution by Google.
 
 ## Causal Inference & Bayesian Analysis
-*   [statsmodels](https://github.com/statsmodels/statsmodels) ![Github Stars](https://img.shields.io/github/stars/statsmodels/statsmodels.svg?style=social) - - - - - - - - - - - - - - - - - - Statistical modeling including time series and econometrics.
-*   [dowhy](https://github.com/py-why/dowhy) ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social) - - - - - - - - - - - - - - - - - - Python library for causal inference that supports explicit modeling and testing of causal assumptions.
-*   [EconML](https://github.com/py-why/EconML) ![Github Stars](https://img.shields.io/github/stars/py-why/EconML.svg?style=social) - - - - - - - - - - - - - - - - - - AI, Econometrics and Causal Inference modelling.
-*   [CausalPy](https://github.com/pymc-labs/CausalPy) ![Github Stars](https://img.shields.io/github/stars/pymc-labs/CausalPy.svg?style=social) - - - - - - - - - - - - - - - - - - A Python package for causal inference in quasi-experimental settings.
-*   [scikit-uplift](https://github.com/maks-sh/scikit-uplift) ![Github Stars](https://img.shields.io/github/stars/maks-sh/scikit-uplift.svg?style=social) - - - - - - - - - - - - - - - - - :exclamation: uplift modeling in scikit-learn style in python :snake:
-*   [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social) - - - - - - - - - - - - - - - - - - Google's [CausalImpact](https://github.com/google/CausalImpact) Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability).
-*   [upliftml](https://github.com/bookingcom/upliftml) ![Github Stars](https://img.shields.io/github/stars/bookingcom/upliftml.svg?style=social) - - - - - - - - - - - - - - - - - - Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.
-*   [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods) ![Github Stars](https://img.shields.io/github/stars/OscarEngelbrektson/SyntheticControlMethods.svg?style=social) - - - - - - - - - - - - - - - - - - Causal inference using Synthetic Control.
-*   [CausalImpact](https://github.com/google/CausalImpact) ![Github Stars](https://img.shields.io/github/stars/google/CausalImpact.svg?style=social) - - - - - - - - - - - - - - - - - - An R package for causal inference using Bayesian structural time-series models.
-*   [pysyncon](https://github.com/sdfordham/pysyncon) ![Github Stars](https://img.shields.io/github/stars/sdfordham/pysyncon.svg?style=social) - - - - - - - - - - - - - - - - - - Multiple Synthetic Control implementations.
-*   [scpi](https://github.com/nppackages/scpi) ![Github Stars](https://img.shields.io/github/stars/nppackages/scpi.svg?style=social) - - - - - - - - - - - - - - - - - Synthetic Control Methods with Prediction Intervals (R/Python/Stata).
-*   [SparseSC](https://github.com/microsoft/SparseSC) ![Github Stars](https://img.shields.io/github/stars/microsoft/SparseSC.svg?style=social) - - - - - - - - - - - - - - - - - - Sparse Synthetic Control Models in Python by Microsoft.
-*   [Causal Inference in Python](https://github.com/matheusfacure/causal-inference-in-python-code) ![Github Stars](https://img.shields.io/github/stars/matheusfacure/causal-inference-in-python-code.svg?style=social) - - - - - - - - - - - - - - - - - - Code for "Causal Inference in Python".
-*   [CausalLift](https://github.com/Minyus/causallift) ![Github Stars](https://img.shields.io/github/stars/Minyus/causallift.svg?style=social) - - - - - - - - - - - - - - - - - - Uplift modeling for causal inference.
-*   [MatchIt](https://github.com/kosukeimai/MatchIt) ![Github Stars](https://img.shields.io/github/stars/kosukeimai/MatchIt.svg?style=social) - - - - - - - - - - - - - - - - - - Nonparametric preprocessing for parametric causal inference (R).
-*   [TensorFlow CausalImpact](https://github.com/google/tfp-causalimpact) ![Github Stars](https://img.shields.io/github/stars/google/tfp-causalimpact.svg?style=social) - - - - - - - - - - - - - - - - - - Python implementation of CausalImpact using TensorFlow Probability.
-*   [Causmos](https://github.com/google-marketing-solutions/causmos) ![Github Stars](https://img.shields.io/github/stars/google-marketing-solutions/causmos.svg?style=social) - - - - - - - - - - - - - - - - - - An open-source web application for Causal Impact analysis (by Google Marketing Solutions).
-*   [Murray](https://github.com/entropyx/murray) ![Github Stars](https://img.shields.io/github/stars/entropyx/murray.svg?style=social) - - - - - - - - - - - - - - - - - - Causal inference library.
-*   [Deep Causal MMM](https://github.com/adityapt/deepcausalmmm) ![Github Stars](https://img.shields.io/github/stars/adityapt/deepcausalmmm.svg?style=social) - - - - - - - - - - - - - - - - - - Deep Causal Marketing Mix Modeling.
-*   [ScidesignR](https://github.com/scidesign/scidesignR) ![Github Stars](https://img.shields.io/github/stars/scidesign/scidesignR.svg?style=social) - - - - - - - - - - - - - - - - - - Scientific design of experiments in R.
-*   [CausalImpact Python](https://github.com/jamalsenouci/causalimpact/) ![Github Stars](https://img.shields.io/github/stars/jamalsenouci/causalimpact.svg?style=social) - - - - - - - - - - - - - - - - - - Another Python implementation of CausalImpact.
+*   [Causal Inference in Python](https://github.com/matheusfacure/causal-inference-in-python-code) ![Github Stars](https://img.shields.io/github/stars/matheusfacure/causal-inference-in-python-code.svg?style=social) - - Code for "Causal Inference in Python".
+*   [CausalLift](https://github.com/Minyus/causallift) ![Github Stars](https://img.shields.io/github/stars/Minyus/causallift.svg?style=social) - - Uplift modeling for causal inference.
+*   [MatchIt](https://github.com/kosukeimai/MatchIt) ![Github Stars](https://img.shields.io/github/stars/kosukeimai/MatchIt.svg?style=social) - - Nonparametric preprocessing for parametric causal inference (R).
+*   [TensorFlow CausalImpact](https://github.com/google/tfp-causalimpact) ![Github Stars](https://img.shields.io/github/stars/google/tfp-causalimpact.svg?style=social) - - Python implementation of CausalImpact using TensorFlow Probability.
+*   [SparseSC](https://github.com/microsoft/SparseSC) ![Github Stars](https://img.shields.io/github/stars/microsoft/SparseSC.svg?style=social) - - Sparse Synthetic Control Models in Python by Microsoft.
+*   [pysyncon](https://github.com/sdfordham/pysyncon) ![Github Stars](https://img.shields.io/github/stars/sdfordham/pysyncon.svg?style=social) - - Multiple Synthetic Control implementations.
+*   [mlsynth](https://github.com/jgreathouse9/mlsynth) ![Github Stars](https://img.shields.io/github/stars/jgreathouse9/mlsynth.svg?style=social) - - A Python library for doing policy evaluation using panel data estimators.
+*   [Causmos](https://github.com/google-marketing-solutions/causmos) ![Github Stars](https://img.shields.io/github/stars/google-marketing-solutions/causmos.svg?style=social) - - An open-source web application for Causal Impact analysis (by Google Marketing Solutions).
+*   [scpi](https://github.com/nppackages/scpi) ![Github Stars](https://img.shields.io/github/stars/nppackages/scpi.svg?style=social) - - Synthetic Control Methods with Prediction Intervals (R/Python/Stata).
+*   [Deep Causal MMM](https://github.com/adityapt/deepcausalmmm) ![Github Stars](https://img.shields.io/github/stars/adityapt/deepcausalmmm.svg?style=social) - - Deep Causal Marketing Mix Modeling.
+*   [ScidesignR](https://github.com/scidesign/scidesignR) ![Github Stars](https://img.shields.io/github/stars/scidesign/scidesignR.svg?style=social) - - Scientific design of experiments in R.
+*   [CausalImpact](https://github.com/google/CausalImpact) ![Github Stars](https://img.shields.io/github/stars/google/CausalImpact.svg?style=social) - - An R package for causal inference using Bayesian structural time-series models.
+*   [CausalPy](https://github.com/pymc-labs/CausalPy) ![Github Stars](https://img.shields.io/github/stars/pymc-labs/CausalPy.svg?style=social) - - A Python package for causal inference in quasi-experimental settings.
+*   [dowhy](https://github.com/py-why/dowhy) ![Github Stars](https://img.shields.io/github/stars/py-why/dowhy.svg?style=social) - - Python library for causal inference that supports explicit modeling and testing of causal assumptions.
+*   [SyntheticControlMethods](https://github.com/OscarEngelbrektson/SyntheticControlMethods) ![Github Stars](https://img.shields.io/github/stars/OscarEngelbrektson/SyntheticControlMethods.svg?style=social) - - Causal inference using Synthetic Control.
+*   [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) ![Github Stars](https://img.shields.io/github/stars/WillianFuks/tfcausalimpact.svg?style=social) - - Google's [CausalImpact](https://github.com/google/CausalImpact) Algorithm implemented on top of [TensorFlow Probability](https://github.com/tensorflow/probability).
+*   [upliftml](https://github.com/bookingcom/upliftml) ![Github Stars](https://img.shields.io/github/stars/bookingcom/upliftml.svg?style=social) - - Scalable unconstrained and constrained uplift modeling from experimental data using PySpark and H20.
+*   [scikit-uplift](https://github.com/maks-sh/scikit-uplift) ![Github Stars](https://img.shields.io/github/stars/maks-sh/scikit-uplift.svg?style=social) - - exclamation: uplift modeling in scikit-learn style in python :snake:
+*   [EconML](https://github.com/py-why/EconML) ![Github Stars](https://img.shields.io/github/stars/py-why/EconML.svg?style=social) - - AI, Econometrics and Causal Inference modelling.
+*   [statsmodels](https://github.com/statsmodels/statsmodels) ![Github Stars](https://img.shields.io/github/stars/statsmodels/statsmodels.svg?style=social) - - Statistical modeling including time series and econometrics.
+*   [CausalImpact Python](https://github.com/jamalsenouci/causalimpact/) ![Github Stars](https://img.shields.io/github/stars/jamalsenouci/causalimpact.svg?style=social) - - Another Python implementation of CausalImpact.
+
+## Bayesian Modeling
+*   [The Kernel Cookbook: Advice on Covariance functions](https://www.cs.toronto.edu/~duvenaud/cookbook/)
+*   [Gaussian Processes: HSGP Reference & First Steps](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Basic.html)
+*   [Gaussian Processes: HSGP Advanced Usage](https://www.pymc.io/projects/examples/en/latest/gaussian_processes/HSGP-Advanced.html)
 
 ## Geo Experimentation & Lift Testing
-*   [GeoLift](https://github.com/facebookincubator/GeoLift) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social) - - - - - - - - - - - - - - - - - - An R package to design and analyze geo-lift experiments (by Facebook).
-*   [GeoexperimentsResearch](https://github.com/google/GeoexperimentsResearch) ![Github Stars](https://img.shields.io/github/stars/google/GeoexperimentsResearch.svg?style=social) - - - - - - - - - - - - - - - - - - Geo experiments research (R).
-*   [matched_markets](https://github.com/google/matched_markets) ![Github Stars](https://img.shields.io/github/stars/google/matched_markets.svg?style=social) - - - - - - - - - - - - - - - - - - Time-based regression matched markets (by Google).
-*   [trimmed_match](https://github.com/google/trimmed_match) ![Github Stars](https://img.shields.io/github/stars/google/trimmed_match.svg?style=social) - - - - - - - - - - - - - - - - - - Trimmed Match design for randomized paired geo experiments.
-*   [MarketMatching](https://github.com/klarsen1/MarketMatching) ![Github Stars](https://img.shields.io/github/stars/klarsen1/MarketMatching.svg?style=social) - - - - - - - - - - - - - - - - - - Market matching and causal impact analysis.
-*   [Geo RCT Methodology](https://github.com/rickcentralcontrolcom/geo-rct-methodology) ![Github Stars](https://img.shields.io/github/stars/rickcentralcontrolcom/geo-rct-methodology.svg?style=social) - - - - - - - - - - - - - - - - - - Methodology for Geo Randomized Controlled Trials.
+*   [MarketMatching](https://github.com/klarsen1/MarketMatching) ![Github Stars](https://img.shields.io/github/stars/klarsen1/MarketMatching.svg?style=social) - - Market matching and causal impact analysis.
+*   [Geo RCT Methodology](https://github.com/rickcentralcontrolcom/geo-rct-methodology) ![Github Stars](https://img.shields.io/github/stars/rickcentralcontrolcom/geo-rct-methodology.svg?style=social) - - Methodology for Geo Randomized Controlled Trials.
+*   [trimmed_match](https://github.com/google/trimmed_match) ![Github Stars](https://img.shields.io/github/stars/google/trimmed_match.svg?style=social) - - Trimmed Match design for randomized paired geo experiments.
+*   [matched_markets](https://github.com/google/matched_markets) ![Github Stars](https://img.shields.io/github/stars/google/matched_markets.svg?style=social) - - Time-based regression matched markets (by Google).
+*   [GeoexperimentsResearch](https://github.com/google/GeoexperimentsResearch) ![Github Stars](https://img.shields.io/github/stars/google/GeoexperimentsResearch.svg?style=social) - - Geo experiments research (R).
+*   [GeoLift](https://github.com/facebookincubator/GeoLift) ![Github Stars](https://img.shields.io/github/stars/facebookincubator/GeoLift.svg?style=social) - - An R package to design and analyze geo-lift experiments (by Facebook).
 
 ## Customer Analytics (CLV, Segmentation, Uplift)
-*   [causalml](https://github.com/uber/causalml) ![Github Stars](https://img.shields.io/github/stars/uber/causalml.svg?style=social) - - - - - - - - - - - - - - - - - - Uplift modeling and causal inference with machine learning.
-*   [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes.svg?style=social) - - - - - - - - - - - - - - - - - - Measure customer lifetime value in Python.
-*   [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) ![Github Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools.svg?style=social) - - - - - - - - - - - - - - - - - - Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, ...
-*   [ecommercetools](https://github.com/practical-data-science/ecommercetools) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/ecommercetools.svg?style=social) - - - - - - - - - - - - - - - - - - Data science toolkit for those working in technical ecommerce, marketing science, and technical seo and includes a wide range of features to aid analysis and model...
-*   [btyd](https://github.com/ColtAllen/btyd) ![Github Stars](https://img.shields.io/github/stars/ColtAllen/btyd.svg?style=social) - - - - - - - - - - - - - - - - - - Buy Till You Die and CLV statistical models in Python.
-*   [amazon-denseclus](https://github.com/awslabs/amazon-denseclus) ![Github Stars](https://img.shields.io/github/stars/awslabs/amazon-denseclus.svg?style=social) - - - - - - - - - - - - - - - - - - Python module for clustering both categorical and numerical data using UMAP and HDBSCAN by Amazon.
-*   [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social) - - - - - - - - - - - - - - - - - - RFM Analysis and Customer Segmentation.
-*   [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social) - - - - - - - - - - - - - - - - - - CLV for subscriptions.
-*   [lifelines](https://github.com/CamDavidsonPilon/lifelines) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social) - - - - - - - - - - - - - - - - - - Survival analysis in Python.
-*   [pysurvival](https://github.com/square/pysurvival) ![Github Stars](https://img.shields.io/github/stars/square/pysurvival.svg?style=social) - - - - - - - - - - - - - - - - - - An open source python package for Survival Analysis modeling.
-*   [scikit-survival](https://github.com/sebp/scikit-survival) ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social) - - - - - - - - - - - - - - - - - - Survival analysis built on top of scikit-learn.
-*   [EconML](https://github.com/microsoft/EconML) ![Github Stars](https://img.shields.io/github/stars/microsoft/EconML.svg?style=social) - - - - - - - - - - - - - - - - - - Automated Learning and Intelligence for Causation and Economics.
-*   [arules](https://github.com/mhahsler/arules) ![Github Stars](https://img.shields.io/github/stars/mhahsler/arules.svg?style=social) - - - - - - - - - - - - - - - - - Association Rules (apriori, eclat) in R.
-*   [BTYDplus](https://github.com/mplatzer/BTYDplus) ![Github Stars](https://img.shields.io/github/stars/mplatzer/BTYDplus.svg?style=social) - - - - - - - - - - - - - - - - - - Extended BTYD models (R).
-*   [mr-uplift](https://github.com/Ibotta/mr_uplift) ![Github Stars](https://img.shields.io/github/stars/Ibotta/mr_uplift.svg?style=social) - - - - - - - - - - - - - - - - - - Uplift Modeling with Multiple Treatments/Responses.
-*   [BTYD](https://github.com/ghuiber/BTYD) ![Github Stars](https://img.shields.io/github/stars/ghuiber/BTYD.svg?style=social) - - - - - - - - - - - - - - - - - - Buy Till You Die - Probability Models for Customer-Base Analysis (R).
+*   [EconML](https://github.com/microsoft/EconML) ![Github Stars](https://img.shields.io/github/stars/microsoft/EconML.svg?style=social) - - Automated Learning and Intelligence for Causation and Economics.
+*   [lifelines](https://github.com/CamDavidsonPilon/lifelines) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifelines.svg?style=social) - - Survival analysis in Python.
+*   [scikit-survival](https://github.com/sebp/scikit-survival) ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social) - - Survival analysis built on top of scikit-learn.
+*   [pysurvival](https://github.com/square/pysurvival) ![Github Stars](https://img.shields.io/github/stars/square/pysurvival.svg?style=social) - - An open source python package for Survival Analysis modeling.
+*   [arules](https://github.com/mhahsler/arules) ![Github Stars](https://img.shields.io/github/stars/mhahsler/arules.svg?style=social) - - Association Rules (apriori, eclat) in R.
+*   [BTYDplus](https://github.com/mplatzer/BTYDplus) ![Github Stars](https://img.shields.io/github/stars/mplatzer/BTYDplus.svg?style=social) - - Extended BTYD models (R).
+*   [mr-uplift](https://github.com/Ibotta/mr_uplift) ![Github Stars](https://img.shields.io/github/stars/Ibotta/mr_uplift.svg?style=social) - - Uplift Modeling with Multiple Treatments/Responses.
+*   [BTYD](https://github.com/ghuiber/BTYD) ![Github Stars](https://img.shields.io/github/stars/ghuiber/BTYD.svg?style=social) - - Buy Till You Die - Probability Models for Customer-Base Analysis (R).
+*   [causalml](https://github.com/uber/causalml) ![Github Stars](https://img.shields.io/github/stars/uber/causalml.svg?style=social) - - Uplift modeling and causal inference with machine learning.
+*   [btyd](https://github.com/ColtAllen/btyd) ![Github Stars](https://img.shields.io/github/stars/ColtAllen/btyd.svg?style=social) - - Buy Till You Die and CLV statistical models in Python.
+*   [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/lifetimes.svg?style=social) - - Measure customer lifetime value in Python.
+*   [lucius-ltv](https://github.com/plexagon/lucius-ltv) ![Github Stars](https://img.shields.io/github/stars/plexagon/lucius-ltv.svg?style=social) - - CLV for subscriptions.
+*   [amazon-denseclus](https://github.com/awslabs/amazon-denseclus) ![Github Stars](https://img.shields.io/github/stars/awslabs/amazon-denseclus.svg?style=social) - - Python module for clustering both categorical and numerical data using UMAP and HDBSCAN by Amazon.
+*   [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social) - - RFM Analysis and Customer Segmentation.
+*   [retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) ![Github Stars](https://img.shields.io/github/stars/retentioneering/retentioneering-tools.svg?style=social) - - Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization...
+*   [ecommercetools](https://github.com/practical-data-science/ecommercetools) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/ecommercetools.svg?style=social) - - Data science toolkit for those working in technical ecommerce, marketing science, and technical seo and includes a wide range of features to aid analysis and mod...
 
 ## Customer Response Modeling
 *   [Uplift Modeling with Multiple Treatments/Responses \ (Python Package)](https://pypi.org/project/mr-uplift/)
@@ -100,12 +100,12 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Association Rules (apriori, eclat) \ - R Package](https://cran.r-project.org/web/packages/arules/index.html)
 
 ## Recommender Systems
-*   [recommenders](https://github.com/microsoft/recommenders) ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social) - - - - - - - - - - - - - - - - - - Best Practices on Recommendation Systems (by Microsoft).
-*   [Surprise](https://github.com/NicolasHug/Surprise) ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social) - - - - - - - - - - - - - - - - - - Scikit for building and analyzing recommender systems that deal with explicit rating data.
-*   [lightfm](https://github.com/lyst/lightfm) ![Github Stars](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - - - - - - - - - - - - - - - - - - A Python implementation of a number of popular recommendation algorithms.
-*   [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ![Github Stars](https://img.shields.io/github/stars/statisticianinstilettos/recmetrics.svg?style=social) - - - - - - - - - - - - - - - - - - Library of metrics for evaluating recommender systems.
-*   [openrec](https://github.com/ylongqi/openrec) ![Github Stars](https://img.shields.io/github/stars/ylongqi/openrec.svg?style=social) - - - - - - - - - - - - - - - - - - A Modular Framework for Extensible and Adaptable Recommendation Algorithms.
 *   [xDeepFM](https://arxiv.org/abs/1803.05170) - eXtreme Deep Factorization Machine: Combining Explicit and Implicit Feature Interactions for Recommender Systems.
+*   [lightfm](https://github.com/lyst/lightfm) ![Github Stars](https://img.shields.io/github/stars/lyst/lightfm.svg?style=social) - - A Python implementation of a number of popular recommendation algorithms.
+*   [openrec](https://github.com/ylongqi/openrec) ![Github Stars](https://img.shields.io/github/stars/ylongqi/openrec.svg?style=social) - - A Modular Framework for Extensible and Adaptable Recommendation Algorithms.
+*   [recmetrics](https://github.com/statisticianinstilettos/recmetrics) ![Github Stars](https://img.shields.io/github/stars/statisticianinstilettos/recmetrics.svg?style=social) - - Library of metrics for evaluating recommender systems.
+*   [recommenders](https://github.com/microsoft/recommenders) ![Github Stars](https://img.shields.io/github/stars/microsoft/recommenders.svg?style=social) - - Best Practices on Recommendation Systems (by Microsoft).
+*   [Surprise](https://github.com/NicolasHug/Surprise) ![Github Stars](https://img.shields.io/github/stars/NicolasHug/Surprise.svg?style=social) - - Scikit for building and analyzing recommender systems that deal with explicit rating data.
 *   [Google Primer](https://developers.google.com/machine-learning/recommendation) - Introduction to Recommendation Systems.
 
 ## Multi Armed Bandits
@@ -117,27 +117,27 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Applications \ - Application to Performance Marketing](https://assets.researchsquare.com/files/rs-2684616/v1/743a3c4b9360ea574bea92dd.pdf?c=1678945781)
 
 ## Forecasting
-*   [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social) - - - - - - - - - - - - - - - - - - Additive time series modelling by Facebook.
-*   [sktime](https://github.com/sktime/sktime) ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social) - - - - - - - - - - - - - - - - - - A unified framework for ML with Time Eeries.
-*   [StatsForecast](https://github.com/Nixtla/statsforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/statsforecast.svg?style=social) - - - - - - - - - - - - - - - Lightning ⚡️ fast forecasting with statistical and econometric models.
-*   [NeuralProphet](https://github.com/ourownstory/neural_prophet) ![Github Stars](https://img.shields.io/github/stars/ourownstory/neural_prophet.svg?style=social) - - - - - - - - - - - - - - - A hybrid forecasting framework based on PyTorch and trained with standard deep learning methods.
-*   [stumpy](https://github.com/TDAmeritrade/stumpy) ![Github Stars](https://img.shields.io/github/stars/TDAmeritrade/stumpy.svg?style=social) - - - - - - - - - - - - - - - - - - STUMPY  computes something called the matrix profile, which is just an academic way of saying "for every subsequence automatically identify its corresponding neare...
-*   [tslearn](https://github.com/tslearn-team/tslearn) ![Github Stars](https://img.shields.io/github/stars/tslearn-team/tslearn.svg?style=social) - - - - - - - - - - - - - - - - - - The machine learning toolkit for time series analysis in Python.
-*   [pmdarima](https://github.com/alkaline-ml/pmdarima) ![Github Stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima.svg?style=social) - - - - - - - - - - - - - - - - - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-*   [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social) - - - - - - - - - - - - - - - - - - Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
-*   [tbats](https://github.com/intive-DataScience/tbats) ![Github Stars](https://img.shields.io/github/stars/intive-DataScience/tbats.svg?style=social) - - - - - - - - - - - - - - - - - - BATS and TBATS time series forecasting
+*   [prophet](https://github.com/facebook/prophet) ![Github Stars](https://img.shields.io/github/stars/facebook/prophet.svg?style=social) - - Additive time series modelling by Facebook.
+*   [sktime](https://github.com/sktime/sktime) ![Github Stars](https://img.shields.io/github/stars/sktime/sktime.svg?style=social) - - A unified framework for ML with Time Eeries.
+*   [StatsForecast](https://github.com/Nixtla/statsforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/statsforecast.svg?style=social) - - Lightning ⚡️ fast forecasting with statistical and econometric models.
+*   [stumpy](https://github.com/TDAmeritrade/stumpy) ![Github Stars](https://img.shields.io/github/stars/TDAmeritrade/stumpy.svg?style=social) - - STUMPY  computes something called the matrix profile, which is just an academic way of saying "for every subsequence automatically identify its corresponding nea...
+*   [NeuralForecast](https://github.com/Nixtla/neuralforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast.svg?style=social) - - Scalable and user friendly neural forecasting algorithms.
+*   [Nixtla](https://github.com/Nixtla/nixtla) ![Github Stars](https://img.shields.io/github/stars/Nixtla/nixtla.svg?style=social) - - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection.
+*   [tslearn](https://github.com/tslearn-team/tslearn) ![Github Stars](https://img.shields.io/github/stars/tslearn-team/tslearn.svg?style=social) - - The machine learning toolkit for time series analysis in Python.
+*   [pmdarima](https://github.com/alkaline-ml/pmdarima) ![Github Stars](https://img.shields.io/github/stars/alkaline-ml/pmdarima.svg?style=social) - - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
+*   [MLForecast](https://github.com/Nixtla/mlforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/mlforecast.svg?style=social) - - Scalable machine 🤖 learning for time series forecasting.
+*   [temporian](https://github.com/google/temporian) ![Github Stars](https://img.shields.io/github/stars/google/temporian.svg?style=social) - - Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖.
+*   [tbats](https://github.com/intive-DataScience/tbats) ![Github Stars](https://img.shields.io/github/stars/intive-DataScience/tbats.svg?style=social) - - BATS and TBATS time series forecasting
 *   [DeepAR paper](https://arxiv.org/abs/1704.04110) - Probabilistic forecasting with autoregressive recurrent networks (Amazon).
 *   [N-BEATS paper](https://arxiv.org/abs/1905.10437) - Neural basis expansion analysis for interpretable time series forecasting.
 *   [N-HiTS paper](https://arxiv.org/abs/2201.12886) - Neural Hierarchical Interpolation for Time Series Forecasting.
 *   [TCN paper](https://arxiv.org/abs/1803.01271) - An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling.
-*   [NeuralForecast](https://github.com/Nixtla/neuralforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/neuralforecast.svg?style=social) - - - - - - - - - - - - - - Scalable and user friendly neural forecasting algorithms.
-*   [Nixtla](https://github.com/Nixtla/nixtla) ![Github Stars](https://img.shields.io/github/stars/Nixtla/nixtla.svg?style=social) - - - - - - - - - - - - - - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection.
-*   [MLForecast](https://github.com/Nixtla/mlforecast) ![Github Stars](https://img.shields.io/github/stars/Nixtla/mlforecast.svg?style=social) - - - - - - - - - - - - - - Scalable machine 🤖 learning for time series forecasting.
+*   [NeuralProphet](https://github.com/ourownstory/neural_prophet) ![Github Stars](https://img.shields.io/github/stars/ourownstory/neural_prophet.svg?style=social) - - A hybrid forecasting framework based on PyTorch and trained with standard deep learning methods.
 
 ## Data & Utilities
-*   [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social) - - - - - - - - - - - - - - - - - - Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
-*   [Decoy](https://github.com/EqualExperts/decoy) ![Github Stars](https://img.shields.io/github/stars/EqualExperts/decoy.svg?style=social) - - - - - - - - - - - - - - - - - - Synthetic Data Generator using DuckDB at its core.
-*   [SDV](https://github.com/sdv-dev/SDV) ![Github Stars](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - - - - - - - - - - - - - - - - - - Python library designed to be your one-stop shop for creating tabular synthetic data.
+*   [SDV](https://github.com/sdv-dev/SDV) ![Github Stars](https://img.shields.io/github/stars/sdv-dev/SDV.svg?style=social) - - Python library designed to be your one-stop shop for creating tabular synthetic data.
+*   [Decoy](https://github.com/EqualExperts/decoy) ![Github Stars](https://img.shields.io/github/stars/EqualExperts/decoy.svg?style=social) - - Synthetic Data Generator using DuckDB at its core.
+*   [gapandas4](https://github.com/practical-data-science/gapandas4) ![Github Stars](https://img.shields.io/github/stars/practical-data-science/gapandas4.svg?style=social) - - Python package for querying the Google Analytics Data API for GA4 and displaying the results in a Pandas dataframe.
 
 ## Key Researchers
 *   [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) - The Economics of Technology Professor at Stanford Graduate School of Business. Leading researcher in the intersection of machine learning and causal inference.
@@ -152,15 +152,15 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Garrett Johnson](https://www.bu.edu/questrom/profiles/garrett-johnson/) - Associate Professor of Marketing at Boston University. Co-author of "Ghost Ads" and research on privacy/GDPR.
 
 ## Books & Courses
-*   [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.svg?style=social) - - - - - - - - - - - - - - - - - - An introduction to Bayesian methods + Probabilistic Programming.
-*   [Causal Inference for the Brave and True](https://github.com/matheusfacure/python-causality-handbook) ![Github Stars](https://img.shields.io/github/stars/matheusfacure/python-causality-handbook.svg?style=social) - - - - - - - - - - - - - - - - - - An open-source book on causal inference.
-*   [Statistical Rethinking](https://github.com/pymc-devs/resources/tree/master/Rethinking) ![Github Stars](https://img.shields.io/github/stars/pymc-devs/resources.svg?style=social) - - - - - - - - - - - - - - - - - - PyMC port of Richard McElreath's Statistical Rethinking.
-*   [Causal Inference and Discovery in Python](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Causal-Inference-and-Discovery-in-Python.svg?style=social) - - - - - - - - - - - - - - - - - - Code repository for the book.
-*   [Marketing-Data-Science](https://github.com/byukan/Marketing-Data-Science) ![Github Stars](https://img.shields.io/github/stars/byukan/Marketing-Data-Science.svg?style=social) - - - - - - - Analytics and data science business case studies to identify opportunities and inform decisions about products and features.  Topics include Markov chains, A/B testing, customer segment...
-*   [Hands-On Data Science for Marketing](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Hands-On-Data-Science-for-Marketing.svg?style=social) - - - - - - - - - - - - - - - - - - Code for the Packt book.
-*   [Bayesian Analysis with Python](https://github.com/aloctavodia/BAP3) ![Github Stars](https://img.shields.io/github/stars/aloctavodia/BAP3.svg?style=social) - - - - - - - - - - - - - - - - - - Code for the third edition of the book.
-*   [Data Science for Marketing Analytics](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition.svg?style=social) - - - - - - - - - - - - - - - - - - Code for the Packt book.
-*   [Doing Bayesian Data Analysis](https://github.com/cluhmann/DBDA-python) ![Github Stars](https://img.shields.io/github/stars/cluhmann/DBDA-python.svg?style=social) - - - - - - - - - - - - - - - - - - Python port of John Kruschke's book.
+*   [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ![Github Stars](https://img.shields.io/github/stars/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.svg?style=social) - - An introduction to Bayesian methods + Probabilistic Programming.
+*   [Causal Inference for the Brave and True](https://github.com/matheusfacure/python-causality-handbook) ![Github Stars](https://img.shields.io/github/stars/matheusfacure/python-causality-handbook.svg?style=social) - - An open-source book on causal inference.
+*   [Statistical Rethinking](https://github.com/pymc-devs/resources/tree/master/Rethinking) ![Github Stars](https://img.shields.io/github/stars/pymc-devs/resources.svg?style=social) - - PyMC port of Richard McElreath's Statistical Rethinking.
+*   [Causal Inference and Discovery in Python](https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Causal-Inference-and-Discovery-in-Python.svg?style=social) - - Code repository for the book.
+*   [Marketing-Data-Science](https://github.com/byukan/Marketing-Data-Science) ![Github Stars](https://img.shields.io/github/stars/byukan/Marketing-Data-Science.svg?style=social) - - Analytics and data science business case studies to identify opportunities and inform decisions about products and features.  Topics include Markov chains, A/B testing, customer segme...
+*   [Hands-On Data Science for Marketing](https://github.com/PacktPublishing/Hands-On-Data-Science-for-Marketing) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Hands-On-Data-Science-for-Marketing.svg?style=social) - - Code for the Packt book.
+*   [Bayesian Analysis with Python](https://github.com/aloctavodia/BAP3) ![Github Stars](https://img.shields.io/github/stars/aloctavodia/BAP3.svg?style=social) - - Code for the third edition of the book.
+*   [Data Science for Marketing Analytics](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition) ![Github Stars](https://img.shields.io/github/stars/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition.svg?style=social) - - Code for the Packt book.
+*   [Doing Bayesian Data Analysis](https://github.com/cluhmann/DBDA-python) ![Github Stars](https://img.shields.io/github/stars/cluhmann/DBDA-python.svg?style=social) - - Python port of John Kruschke's book.
 *   [Intuitive Bayes](https://www.intuitivebayes.com/) - A course on Intuitive Bayesian statistics.
 *   [Forecasting Principles and Practices](https://otexts.com/fpp3/) - Forecasting Bible with R Examples.
 *   [Market Segmentation Analysis](https://link.springer.com/book/10.1007/978-981-10-8818-6) - Customer Segmentation Book with Python Examples.
@@ -172,7 +172,7 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Causal Inference in Python](https://www.amazon.com/Causal-Inference-Python-Applying-Industry/dp/1098140257) - Applying Causal Inference in Industry (Matheus Facure).
 
 ## Blogs
-*   [Decision Making Processes in Marketing Mix Modelling (PDF)](https://github.com/facebookexperimental/Robyn/blob/main/publication/Decision_Making_Processes_in_Marketing_Mix_Modelling_A_Survey_of_MMM_Providers.pdf) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social)
+*   [Decision Making Processes in Marketing Mix Modelling (PDF)](https://github.com/facebookexperimental/Robyn/blob/main/publication/Decision_Making_Processes_in_Marketing_Mix_Modelling_A_Survey_of_MMM_Providers.pdf) ![Github Stars](https://img.shields.io/github/stars/facebookexperimental/Robyn.svg?style=social) - Robyn is an experimental, AI/ML-powered and open sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. Our mission is to democratise modeling knowledge, inspire the industry thr...
 *   [Causal Sales Analytics: Are my sales incremental or cannibalistic?](https://www.pymc-labs.com/blog-posts/causal-sales-analytics-are-my-sales-incremental-or-cannibalistic)
 *   [Causal Analysis with PyMC: Answering "What If?" with the New do Operator](https://www.pymc-labs.com/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/)
 *   [Bayesian Media Mix Modeling for Marketing Optimization](https://www.pymc-labs.io/blog-posts/bayesian-media-mix-modeling-for-marketing-optimization/)
@@ -187,15 +187,20 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [An Analyst's Guide to MMM | Robyn](https://facebookexperimental.github.io/Robyn/docs/analysts-guide-to-MMM/)
 
 ## Resources
-*   [darts](https://github.com/unit8co/darts) ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - - - - - - - - - - - - - - - - - - A python library for easy manipulation and forecasting of time series.
-*   [tsfresh](https://github.com/blue-yonder/tsfresh) ![Github Stars](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - - - - - - - - - - - - - - - - - - Automatic extraction of relevant features from time series.
-*   [gluonts](https://github.com/awslabs/gluonts) ![Github Stars](https://img.shields.io/github/stars/awslabs/gluonts.svg?style=social) - - - - - - - - - - - - - - - - - - Probabilistic time series modeling in Python (by Amazon).
-*   [orbit](https://github.com/uber/orbit) ![Github Stars](https://img.shields.io/github/stars/uber/orbit.svg?style=social) - - - - - - - - - - - - - - - - - - Bayesian Time Varying Coefficients (by Uber).
+*   [tsfresh](https://github.com/blue-yonder/tsfresh) ![Github Stars](https://img.shields.io/github/stars/blue-yonder/tsfresh.svg?style=social) - - Automatic extraction of relevant features from time series.
+*   [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) ![Github Stars](https://img.shields.io/github/stars/paulbradish/awesome-digital-marketing.svg?style=social) - - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
+*   [awesome-marketing](https://github.com/ninjasort/awesome-marketing) ![Github Stars](https://img.shields.io/github/stars/ninjasort/awesome-marketing.svg?style=social) - - A curated list of resources related to internet marketing.
+*   [awesome-marketing-machine-learning](https://github.com/station-10/awesome-marketing-machine-learning) ![Github Stars](https://img.shields.io/github/stars/station-10/awesome-marketing-machine-learning.svg?style=social) - - A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more
+*   [awesome-Marketing-Analytics](https://github.com/vkoul/awesome-Marketing-Analytics) ![Github Stars](https://img.shields.io/github/stars/vkoul/awesome-Marketing-Analytics.svg?style=social) - - rotating_light: Resources :briefcase: to learn/practice :dart: Marketing analytics :chart: :rotating_light:
 *   [this paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46001.pdf) - Google Research.
-*   ["Shapley Value Methods for Attribution Modeling in Online Advertising" by Zhao, et al.](https://arxiv.org/abs/1804.05327) - This paper re-examines the Shapley value methods for attribution analysis in the area of online advertising. As a credit allocation solution in cooperative game theory, Shapley value method directl...
+*   ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282) - Neural architecture search (NAS) has been proposed to automatically tune deep neural networks, but existing search algorithms, e.g., NASNet, PNAS, usually suffer from expensive computational cost. ...
 *   [Feature Selection Methods for Uplift Modeling](https://arxiv.org/abs/2005.03447) - Uplift modeling is a causal learning technique that estimates subgroup-level treatment effects. It is commonly used in industry and elsewhere for tasks such as targeting ads. In a typical setting, ...
 *   [Challenges and Opportunities in Media Mix Modeling](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45998.pdf) - Google Research.
-*   ["Auto-Keras: Efficient Neural Architecture Search with Network Morphism"](https://arxiv.org/abs/1806.10282) - Neural architecture search (NAS) has been proposed to automatically tune deep neural networks, but existing search algorithms, e.g., NASNet, PNAS, usually suffer from expensive computational cost. ...
+*   ["Shapley Value Methods for Attribution Modeling in Online Advertising" by Zhao, et al.](https://arxiv.org/abs/1804.05327) - This paper re-examines the Shapley value methods for attribution analysis in the area of online advertising. As a credit allocation solution in cooperative game theory, Shapley value method directl...
+*   [darts](https://github.com/unit8co/darts) ![Github Stars](https://img.shields.io/github/stars/unit8co/darts.svg?style=social) - - A python library for easy manipulation and forecasting of time series.
+*   [gluonts](https://github.com/awslabs/gluonts) ![Github Stars](https://img.shields.io/github/stars/awslabs/gluonts.svg?style=social) - - Probabilistic time series modeling in Python (by Amazon).
+*   [orbit](https://github.com/uber/orbit) ![Github Stars](https://img.shields.io/github/stars/uber/orbit.svg?style=social) - - Bayesian Time Varying Coefficients (by Uber).
+*   [AwesomeMarketing](https://github.com/ds4cabs/AwesomeMarketing) ![Github Stars](https://img.shields.io/github/stars/ds4cabs/AwesomeMarketing.svg?style=social)
 *   [https://arxiv.org/abs/1808.03737](https://arxiv.org/abs/1808.03737) - In online advertising, the Internet users may be exposed to a sequence of different ad campaigns, i.e., display ads, search, or referrals from multiple channels, before led up to any final sales co...
 *   [Trimmed Match Design for Randomized Paired Geo Experiments](https://research.google/pubs/trimmed-match-design-for-randomized-paired-geo-experiments/) - How to measure the incremental return on Ad spend (iROAS) is a fundamental problem for the online advertising industry. A standard modern tool is to run randomized geo experiments, where experiment...
 *   [Measuring Ad Effectiveness Using Geo Experiments](https://research.google/pubs/measuring-ad-effectiveness-using-geo-experiments/) - Advertisers have a fundamental need to quantify the effectiveness of their advertising. For search ad spend, this information provides a basis for formulating strategies related to bidding, budgeti...
@@ -228,15 +233,8 @@ Star ⭐ the repo if it helps you, and feel free to contribute your own favorite
 *   [Hierarchical MMM with sign constraints](https://arxiv.org/abs/2008.12802) - Marketing mix models (MMMs) are statistical models for measuring the effectiveness of various marketing activities such as promotion, media advertisement, etc. In this research, we propose a compre...
 *   [Hierarchical Bayesian MMM using Category Data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45999.pdf) - Google Research.
 *   [Geo-level Bayesian Hierarchical Media Mix Modeling](https://research.google/pubs/pub46000/) - Google Research.
-*   [AwesomeMarketing](https://github.com/ds4cabs/AwesomeMarketing) ![Github Stars](https://img.shields.io/github/stars/ds4cabs/AwesomeMarketing.svg?style=social)
-*   [awesome-Marketing-Analytics](https://github.com/vkoul/awesome-Marketing-Analytics) ![Github Stars](https://img.shields.io/github/stars/vkoul/awesome-Marketing-Analytics.svg?style=social) - - - - - - - :rotating_light: Resources :briefcase: to learn/practice :dart: Marketing analytics :chart: :rotating_light:
-*   [awesome-marketing-machine-learning](https://github.com/station-10/awesome-marketing-machine-learning) ![Github Stars](https://img.shields.io/github/stars/station-10/awesome-marketing-machine-learning.svg?style=social) - - - - - - - A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more
-*   [awesome-marketing](https://github.com/ninjasort/awesome-marketing) ![Github Stars](https://img.shields.io/github/stars/ninjasort/awesome-marketing.svg?style=social) - - - - - - - A curated list of resources related to internet marketing.
-*   [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) ![Github Stars](https://img.shields.io/github/stars/paulbradish/awesome-digital-marketing.svg?style=social) - - - - - - - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
 
 ## About
-
-Feel free to submit an issue or pull request with any suggestions!
 
 This list is maintained by [Shako Stats](https://shakostats.com).
 
