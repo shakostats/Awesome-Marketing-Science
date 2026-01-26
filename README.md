@@ -1,3 +1,7 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shako-stats)
+
 # Awesome Marketing Science
 
 A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more [shakostats.com](https://shakostats.com).
@@ -282,6 +286,8 @@ Articles, papers, and other resources organized by topic.
 *   [Geo-level Bayesian Hierarchical Media Mix Modeling](https://research.google/pubs/pub46000/) - Google Research.
 
 ## About
+
+Feel free to submit an issue or pull request with any suggestions!
 
 This list is maintained by [Shako Stats](https://shakostats.com).
 
