@@ -39,6 +39,7 @@ If you're new to the space or building a measurement stack from scratch, start w
 
 ### Marketing Science Breadth
 *   [Introduction to Algorithmic Marketing](https://www.algorithmicmarketingbook.com/) - Broad practitioner-oriented guide to applying machine learning, economics, pricing, search, recommendations, and decisioning in marketing.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Open Source Libraries
 A collection of open source repositories and libraries.
