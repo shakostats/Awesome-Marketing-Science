@@ -179,6 +179,7 @@ Articles, papers, and other resources organized by topic.
 *   [Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data](https://exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf) - Original CUPED paper.
 *   [Trustworthy Online Controlled Experiments](https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/D97B26382EB0EB2DC2019A7A7B518F59) - Canonical book on large-scale A/B testing practice.
 *   [Diagnosing Sample Ratio Mismatch in A/B Testing](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/diagnosing-sample-ratio-mismatch-in-a-b-testing/) - Practical SRM debugging guide from Microsoft.
+*   [Trial-to-Paid Conversion Sample Size Calculator](https://trial-to-paid-conversion-sample-size-calculator.vercel.app/) - Free browser-only calculator for estimating SaaS trial-to-paid A/B test sample size, runtime, and lift scenarios.
 
 ### MMM Calibration & Tuning Resources
 *   [Media Effect Estimation with PyMC: Adstock, Saturation & Diminishing Returns](https://juanitorduz.github.io/pymc_mmm/) - Practical walkthrough of core MMM transformations and modeling choices.
