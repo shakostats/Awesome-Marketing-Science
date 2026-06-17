@@ -320,6 +320,7 @@ Articles, papers, and other resources organized by topic.
 *   [PyMC Labs Blog](https://www.pymc-labs.io/blog/) - Broader archive of Bayesian modeling, MMM, causal inference, and applied case studies.
 *   [Python/STAN Implementation of Multiplicative Marketing Mix Model](https://towardsdatascience.com/python-stan-implementation-of-multiplicative-marketing-mix-model-with-deep-dive-into-adstock-a7320865b334/)
 *   [Recast Blog](https://getrecast.com/blog/) - Industry-facing writing on MMM, incrementality, and measurement systems.
+*   [Recast Technical Documentation](https://docs.getrecast.com/docs/recast-model-technical-documentation) - Public technical documentation for Recast's Bayesian MMM, covering model specification, priors, and validation methodology. A useful reference point for how a commercial MMM is structured relative to the open-source frameworks listed elsewhere in this repo.
 *   [Reducing Customer Acquisition Costs: How we helped optimizing HelloFresh's marketing budget](https://www.pymc-labs.com/blog-posts/reducing-customer-acquisition-costs-how-we-helped-optimizing-hellofreshs-marketing-budget/)
 *   [The Future is Modeled: A How-to Guide for Advanced Marketing Mix Models](https://www.deloitte.com/content/dam/assets-zone2/es/es/docs/services/consulting/2023/Deloitte-es-estrategia-y-operaciones-guide-advanced-marketing-mix-models.pdf)
 *   [Unified Marketing Measurement: The Power of Blending Methodologies (PDF)](https://www.thinkwithgoogle.com/_qs/documents/15401/UnifiedMarketingMeasurement.pdf)
