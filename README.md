@@ -39,6 +39,7 @@ If you're new to the space or building a measurement stack from scratch, start w
 
 ### Marketing Science Breadth
 *   [Introduction to Algorithmic Marketing](https://www.algorithmicmarketingbook.com/) - Broad practitioner-oriented guide to applying machine learning, economics, pricing, search, recommendations, and decisioning in marketing.
+*   [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## Open Source Libraries
 A collection of open source repositories and libraries.
