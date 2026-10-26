@@ -120,6 +120,7 @@ A collection of open source repositories and libraries.
 *   [rfm](https://github.com/sonwanesuresh95/rfm) ![Github Stars](https://img.shields.io/github/stars/sonwanesuresh95/rfm.svg?style=social)
 *   [scikit-survival](https://github.com/sebp/scikit-survival) ![Github Stars](https://img.shields.io/github/stars/sebp/scikit-survival.svg?style=social)
 *   [Survival Models (python) \ - Lifelines](https://lifelines.readthedocs.io/en/latest/)
+* [Mode VC Chart of the Day](https://modevc.com/charts/) - 39 daily empirical AI market charts tracking LMSYS Arena leaderboards, API pricing deflation, and developer SDK adoption.
 
 ### Customer Response Modeling Libraries
 *   [mr-uplift](https://github.com/Ibotta/mr_uplift) ![Github Stars](https://img.shields.io/github/stars/Ibotta/mr_uplift.svg?style=social) - Open-source uplift-modeling package for multiple treatments and responses.
