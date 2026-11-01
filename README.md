@@ -213,7 +213,8 @@ Articles, papers, and other resources organized by topic.
 *   [GeoX paper](https://research.google/pubs/pub38355/) - Advertisers have a fundamental need to quantify the effectiveness of their advertising. For search ad spend, this information provides a basis for formulating strategies related to bidding, budgeting, and campaign des...
 *   [L1-INF Synthetic Control](https://arxiv.org/abs/2510.26053)
 *   [Matched Markets paper](https://research.google/pubs/pub48983/) - Although randomized controlled trials are regarded as the &quot;gold standard&quot; for causal inference, advertisers have been hesitant to embrace them as their primary method of experimental design and analysis due...
-*   [Measuring Ad Effectiveness Using Geo Experiments](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38355.pdf)
+*   [Measuring Ad Effectiveness Using Geo Experiments](https://research.google/pubs/measuring-ad-effectiveness-using-geo-experiments/)
+*   [What Is Geo Testing?](https://brinkeranalytics.com/insights/what-is-geo-testing) - Plain-language practitioner companion to the geo experiments papers above: how geo tests work and when one is feasible. Not a substitute for the paper.
 *   [Multivariate and propensity score matching software with automated balance optimization: The Matching package for R](https://www.jstatsoft.org/article/view/v042i07) - Practical matching and balance-diagnostics reference cited in `pysmatch`.
 *   [Prediction Intervals for Synthetic Control Methods](https://nppackages.github.io/references/Cattaneo-Feng-Titiunik_2021_JASA.pdf)
 *   [Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends](https://doi.org/10.1257/aeri.20210236) - Roth on why pre-trends tests can have low power and distort inference.
