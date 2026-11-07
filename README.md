@@ -182,6 +182,7 @@ Articles, papers, and other resources organized by topic.
 
 ### MMM Calibration & Tuning Resources
 *   [Media Effect Estimation with PyMC: Adstock, Saturation & Diminishing Returns](https://juanitorduz.github.io/pymc_mmm/) - Practical walkthrough of core MMM transformations and modeling choices.
+*   [Geo Experiments: GeoX, GeoLift and MMM Calibration](https://goodlabs.kz/wiki/geo-experiments-geox-geolift/) - Practitioner guide to geo test design, time-based regression, placebo inference, power and MDE, and feeding the lift into an MMM.
 
 ### Segmentation & Personas Resources
 *   [Data-driven Buyer Personas: What They Are and How to Build Them](https://clay.global/blog/data-driven-personas) - Practical guide to turning persona work into something more evidence-based and operational.
